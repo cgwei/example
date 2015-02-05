@@ -1,0 +1,2 @@
+# example
+store all example
